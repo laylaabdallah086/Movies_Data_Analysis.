@@ -1,14 +1,17 @@
-Here’s what I did in the project:
+🎬 Movies Data Analysis
 
-Cleaned the data and converted date columns to proper datetime.
+This is my first data analysis project using *Python* , *Pandas* ,*Matplotlip*
 
-Checked for negative values in budget and box office columns.
+📊 What I did in this project:
+- Cleaned the data and converted date columns to proper datetime format.  
+- Created new columns for profit and ROI (Return on Investment).  
+- Analyzed top and bottom 5 movies by global box office.  
+- Explored trends and insights using data manipulation and visualization.
 
-Calculated Profit and ROI for each movie.
+ Skills used:
+- Python  
+- Pandas  
+- Matplotlib / Seaborn  
+- Data Cleaning & Analysis  
 
-Analyzed the top movie genres by global box office.
-
-Explored trends, ratings, and more insights from the dataset.
-
-This project helped me strengthen my data cleaning, manipulation, and visualization skills.
-I’m looking forward to more projects in data analysis and learning more advanced techniques!
+I’m looking forward to creating more projects in data analysis 
